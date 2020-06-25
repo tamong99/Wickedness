@@ -473,3 +473,7 @@ body {
   text-decoration: underline;
   padding: ;
 }
+.footer {
+  background-color: initial;
+  color: initial;
+}
