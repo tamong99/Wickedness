@@ -464,3 +464,11 @@ body {
   width: 320px;
   margin: 0 auto;
 }
+
+.footer__m {
+  font-size: 1rem;
+  line-height: 1.71;
+  text-align: center;
+  color: #110c0c;
+  text-decoration: underline;
+}
