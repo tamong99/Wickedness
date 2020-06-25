@@ -277,7 +277,7 @@ body {
     height: 2rem;
     border-radius: 10px;
     width: 100%;
-    background-color: rgba(117, 204, 84, 0.2);
+    background-color: rgba(250, 238, 74, 0.151);
   }
   .greed-bar {
     position: absolute;
@@ -285,7 +285,7 @@ body {
     left: 0;
     height: 2rem;
     border-radius: 10px;
-    background-color: rgba(117, 204, 84, 1);
+    background-color: rgb(255, 231, 20);
   }
   .arrogance-box {
     position: absolute;
